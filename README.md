@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 I'm currently pursuing a degree in Computer Science at Columbia University<br><br>📚 I'm currently working on a project called the Options Trading Bot<br><br>🌱 I'm currently learning about REST API and backend frameworks<br><br>🎯 You can reach out to me via email at <a href="mailto:yc3763@columbia.edu">yc3763@columbia.edu </p>
+<p align="left">🎓 I'm currently pursuing a degree in Computer Science at Columbia University<br><br>📚 I'm currently working on a project called the Options Trading Bot<br><br>🌱 I am currently learning about React and various backend frameworks <br><br>🎯 You can reach out to me via email at <a href="mailto:yc3763@columbia.edu">yc3763@columbia.edu </p>
 
 ###
 
